@@ -65,7 +65,7 @@ form{
     display: flex;
     padding: 20px;
     margin-bottom: 25px;
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19)
+    box-shadow: 0 4px 8px 0 rgba(94, 94, 94, 0.2), 0 6px 20px 0 rgba(66, 66, 66, 0.19)
 }
 
 form input{
@@ -73,7 +73,7 @@ form input{
     padding: 15px;
     margin-bottom: 10px;
     border-radius: 5px;
-    border: 1px solid #999;
+    border: 1px solid rgb(219, 219, 219);
     outline: none;
     font-size: 16px;
 }
